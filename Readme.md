@@ -1,8 +1,8 @@
-# 📇 Contact Book (Python GUI)
+# Contact Book (Python GUI)
 
 A beginner-friendly contact book GUI app built using Python and Tkinter. It allows users to manage contacts (add, view, update, delete) and stores data in a local text file.
 
-## 🚀 Features
+## Features
 •⁠  ⁠Add new contacts
 •⁠  ⁠View saved contacts
 •⁠  ⁠Update existing contacts
@@ -10,12 +10,12 @@ A beginner-friendly contact book GUI app built using Python and Tkinter. It allo
 •⁠  ⁠Simple GUI built with Tkinter
 •⁠  ⁠Data saved in ⁠ contacts.txt ⁠
 
-## 🛠 Tech Stack
+## Tech Stack
 •⁠  ⁠Python 3.x
 •⁠  ⁠Tkinter (built-in)
 •⁠  ⁠File I/O
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 python contact_book_gui.py
